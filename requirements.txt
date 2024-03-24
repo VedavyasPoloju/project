@@ -1,0 +1,28 @@
+Title Of the Project    : Prediction Of Hepatities Disease Using Machine Learning Technique
+Process of Installation : Install Python
+Python Version          : Python 3.6.8
+open the cmd in your Pc : Check the python Version Next install all modules used in our code.
+Modules are as follows  : Intsall them by using PIP
+Pip install Numpy
+pip install pandas
+pip install matplotlib
+pip install Tkinter
+pip install sklearn
+pip install keras
+pip install Tensorflow
+
+Finally open code by using idle
+Run Code by using F5
+
+when we run the code, a tkinter interface will be opened which is  having Upload dataset
+                                                                          Data Import
+                                                                          Data Preprocessing
+                                                                          Train and Test Model
+                                                                          Run Algorithms
+                                                                          Accuracy Graph
+Click on upload dataset       - upload csv file
+Click on data import          - data will be imported and a graph will be appears
+Click on data preprocessing   - it preprocess the data
+Click on train and test model - It trains and tests the data model by giving output as how many rows and columns are trained and tested.
+Click on Run Algorithms       - It runs all the alogrithms which are used in our code in background (Python shell)
+Click on Accuracy Graph       - Finally accuracy of all algorithms used in our code will be appeared.
